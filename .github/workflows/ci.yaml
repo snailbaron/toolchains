@@ -8,4 +8,4 @@ on:
 
 jobs:
   publish:
-    uses: snailbaron/actions/.github/workflows/publish-to-registry.yaml
+    uses: snailbaron/actions/.github/workflows/publish-to-registry.yaml@main
